@@ -8,17 +8,17 @@ Analyse von Lebensmittelpreisen in österreichischen Supermärkten
 - `/docker` – Docker-Konfigurationen (MongoDB etc.)
 
 ## Aufgaben: 
-- Pinar: (Scraping & Datenbeschaffung)
+## Pinar: (Scraping & Datenbeschaffung)
 - Website analysieren (HTML-Struktur von Billa, Spar, etc.)
 - Scraping-Skript entwickeln (auch mit Test-URL)
 - CSV mit Testdaten erstellen
 
-- Ambar (Analyse vorbereiten)
+## Ambar (Analyse vorbereiten)
 - Jupyter Notebook mit Gliederung & Beispielcode vorbereiten
 - Pandas-Logik mit fiktiven Daten testen (z. B. preise_test.csv)
 - MapReduce-Logik unabhängig vom echten Datensatz schreiben
 
-- Julia (Doku & Visualisierung)
+## Julia (Doku & Visualisierung)
 - README.md schreiben (Projektbeschreibung + Rollen)
 - Architekturdiagramm zeichnen (z. B. mit draw.io)
 - Präsentation (Folienstruktur) vorbereiten
