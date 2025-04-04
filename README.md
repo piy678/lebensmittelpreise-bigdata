@@ -7,7 +7,7 @@ Analyse von Lebensmittelpreisen in österreichischen Supermärkten
 - `/notebooks` – Jupyter Notebooks für Analyse & Visualisierung
 - `/docker` – Docker-Konfigurationen (MongoDB etc.)
 
-## Aufgaben: 
+## vorläufige Aufgaben: 
 ## Pinar: (Scraping & Datenbeschaffung)
 - Website analysieren (HTML-Struktur von Billa, Spar, etc.)
 - Scraping-Skript entwickeln (auch mit Test-URL)
