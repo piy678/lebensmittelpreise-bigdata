@@ -66,3 +66,4 @@ Python, Pandas, MongoDB, MapReduce, Docker, GitHub
    - Visualisierungen (Balkendiagramme etc.)  
    - Dokumentation im Jupyter Notebook  
    - Präsentation mit zentralen Ergebnissen
+# lebensmittelpreise-bigdata
